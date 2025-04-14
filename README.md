@@ -32,9 +32,9 @@
 
 
 <div align="center">
-  <img src=" https://giphy.com/gifs/eNkf90CuSMQDVYoF9X  " alt="Coding GIF" > 
-   
+  <img src="https://media.giphy.com/media/eNkf90CuSMQDVYoF9X/giphy.gif" alt=" GIF" width="300" />
 </div>
+
 
 <h4 align="center">📈 Profile Views</h4>
 <p align="center">
