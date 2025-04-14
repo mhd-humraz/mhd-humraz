@@ -26,7 +26,7 @@
 ### 📊 Profile Views
 
 
-<p>align="center">
+<p align="center">
   <img src="https://i.imgur.com/YOUR_IMAGE_LINK.png" alt="photo" width="200"/>
 </p>
 
