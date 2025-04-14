@@ -35,8 +35,9 @@
   <img src="https://i.imgur.com/abc123.gif" width="300"/>
 </p>
 
+<h4 align="center">📈 Profile Views</h4>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhd-humraz&label=Profile%20views&color=0e75b6&style=flat" alt="mhd-humraz" />
+  <img src="https://profile-counter.glitch.me/mhd-humraz/count.svg" alt="Profile Views" />
 </p>
 ---
 
