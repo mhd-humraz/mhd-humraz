@@ -1,4 +1,4 @@
--# Hi there. I am Muhammed Humraz H  
+## Hi There!.. I am Muhammed Humraz H  
 ## Welcome to my GitHub Profile!!!
 
 ⚡ I am currently exploring creative and tech projects.  
