@@ -32,7 +32,7 @@
 
 
 <div align="center">
-  <img src=" https://giphy.com/gifs/eNkf90CuSMQDVYoF9X" alt="Coding GIF" width="200"/> 
+  <img src="  https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl4NXN2MXdzZTk2MjRyZ2kxZ2Z0dWpidWMyd2UybWZwYzJ1M293NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNkf90CuSMQDVYoF9X/giphy.gif" alt="Coding GIF" width="200"/> 
    
 </div>
 
