@@ -23,6 +23,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+p align="center">
+  <img src="https://i.imgur.com/YOUR_IMAGE_LINK.png" alt="photo" width="200"/>
+</p>
+
+---
+
 ### 📊 Profile Views
 
 <p align="center">
