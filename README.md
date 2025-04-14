@@ -31,9 +31,10 @@
 ### 📊 Profile Views
 
 
-<p align="center">
-  <img src="https://i.imgur.com/abc123.gif" width="300"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
+   
+</div>
 
 <h4 align="center">📈 Profile Views</h4>
 <p align="center">
