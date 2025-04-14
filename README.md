@@ -2,10 +2,7 @@
 ## Welcome to my GitHub Profile!!!
 
 
-<p align="center">
-  <img src="https://i.imgur.com/900pvcy.mp4" width="300"/>
-</p>
-
+ 
 ----
 ⚡ I am currently exploring creative and tech projects.  
 🎓 Currently learning: WordPress, AI integration, and Web Development.  
@@ -32,6 +29,11 @@
 -----
   
 ### 📊 Profile Views
+
+
+<p align="center">
+  <img src="https://i.imgur.com/abc123.gif" width="300"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhd-humraz&label=Profile%20views&color=0e75b6&style=flat" alt="mhd-humraz" />
