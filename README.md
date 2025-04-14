@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_LINK.png" alt="photo" width="200"/>
+  <img src="https://jmp.sh/s/kqHYEadM5z6Z1JIe2p9r" alt="photo" width="200"/>
 </p>
 
 
