@@ -1,6 +1,12 @@
 ## Hi There!.. I am Muhammed Humraz H  
 ## Welcome to my GitHub Profile!!!
 
+
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="300"/>
+</p>
+
+----
 ⚡ I am currently exploring creative and tech projects.  
 🎓 Currently learning: WordPress, AI integration, and Web Development.  
 🧠 Passionate about the future and computer technology.  
