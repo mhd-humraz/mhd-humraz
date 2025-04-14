@@ -22,15 +22,17 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+ ---
+### 📊 Profile Views
 
-p align="center">
+
+<p>align="center">
   <img src="https://i.imgur.com/YOUR_IMAGE_LINK.png" alt="photo" width="200"/>
 </p>
 
----
 
-### 📊 Profile Views
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhd-humraz&label=Profile%20views&color=0e75b6&style=flat" alt="mhd-humraz" />
