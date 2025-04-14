@@ -23,6 +23,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 📊 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhd-humraz&label=Profile%20views&color=0e75b6&style=flat" alt="mhd-humraz" />
+</p>
+
+---
 
 ## 📊 My GitHub Stats
 ![Humraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight)
