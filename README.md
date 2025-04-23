@@ -42,7 +42,7 @@
 </div>
 
 
-<h4 align="center">📈 Profile Views</h4>
+<h4 align="center"> Profile Views</h4>
 <p align="center">
   <img src="https://profile-counter.glitch.me/mhd-humraz/count.svg" alt="Profile Views" />
 </p>
