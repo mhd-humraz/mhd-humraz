@@ -23,6 +23,8 @@
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=mhd-humraz&theme=dark)
  
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-yellow?style=flat-square)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=flat-square)
 
 ---
 
