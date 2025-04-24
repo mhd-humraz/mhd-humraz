@@ -17,8 +17,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhd-humraz-283a5435b)
 
 ---
+## 🏆 GitHub Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mhd-humraz&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight)
 
 
+---
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhd-humraz&theme=github-compact)](https://github.com/mhd-humraz)
 
