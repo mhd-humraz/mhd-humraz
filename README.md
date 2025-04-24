@@ -22,10 +22,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=mhd-humraz&theme=dark)
- 
-![YOLO](https://img.shields.io/badge/-YOLO%20🦍-orange?style=for-the-badge)
-![Pull Shark](https://img.shields.io/badge/-Pull%20Shark%20🦈-blue?style=for-the-badge)
-
+  
 
 
 ---
