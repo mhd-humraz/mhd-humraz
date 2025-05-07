@@ -12,6 +12,7 @@
 🧭 Pronouns: He/Him.  
 
 ### 📫 How to reach me:
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhamraz201@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muhammed_humraz_11?igsh=aG00YW05YTFmajE4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhd-humraz-283a5435b)
