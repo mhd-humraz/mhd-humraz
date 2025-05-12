@@ -21,6 +21,9 @@
 ## 🏆 GitHub Achievements
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox)
+
+
+
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhd-humraz&theme=dark)](https://github.com/mhd-humraz)
   
