@@ -29,7 +29,7 @@
   
 
 
----
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhd-humraz&theme=github-compact)](https://github.com/mhd-humraz)
 
@@ -43,7 +43,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
------
+
   
 ### 📊 Profile Views
 
