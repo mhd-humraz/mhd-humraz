@@ -23,11 +23,9 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox)
 
 
-
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhd-humraz&theme=dark)](https://github.com/mhd-humraz)
   
-
 
 
 
@@ -68,11 +66,12 @@
 
 
 <h4 align="center"> Profile Views</h4>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/mhd-humraz/count.svg" alt="Profile Views" />
  
 </p>
----
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My GitHub Stats
 
