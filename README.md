@@ -56,21 +56,13 @@
 
 
   
-### 📊 Profile Views
-
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/eNkf90CuSMQDVYoF9X/giphy.gif" alt=" GIF" width="300" />
-</div>
 
 
 <h4 align="center"> Profile Views</h4>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mhd-humraz/count.svg" alt="Profile Views" />
- 
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhd-humraz&color=blue" alt="Visitors"/>
+</div>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My GitHub Stats
