@@ -3,7 +3,8 @@
 ## Welcome to my GitHub Profile!!!
 
 
- 
+ ![Profile Card](https://github.com/mhd-humraz/mhd-humraz/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).gif?raw=true)
+
 ----
 ⚡ I am currently exploring creative and tech projects.  
 🎓 Currently learning: WordPress, AI integration, and Web Development.  
