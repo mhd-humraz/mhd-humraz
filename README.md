@@ -83,7 +83,13 @@
 
 
  
----
+-
+
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhd-humraz/mhd-humraz/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhd-humraz/mhd-humraz/output/github-snake.svg" />
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mhd-humraz/mhd-humraz/output/github-snake.svg" class="mx-auto"/>
+    </picture>
 
 ## 🐍 My Contributions
 
