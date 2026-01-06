@@ -28,20 +28,21 @@ I am a passionate developer bridging the gap between creative design and technic
 
 ---
 ### 📊 GitHub Analytics
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox&column=7" alt="Trophies" />
-</p>
+
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight&cache_seconds=1800" width="42%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox&column=6" />
 </p>
 
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+
+
+
  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mhd-humraz&theme=tokyonight" width="91%" />
@@ -55,13 +56,7 @@ I am a passionate developer bridging the gap between creative design and technic
 
 
 
-![Humraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight)
 
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight)
 
  ---
 
@@ -80,6 +75,8 @@ I am a passionate developer bridging the gap between creative design and technic
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mhd-humraz/mhd-humraz/output/github-snake.svg" />
   </picture>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/mhd-Humraz/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
