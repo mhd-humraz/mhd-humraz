@@ -27,28 +27,32 @@ I am a passionate developer bridging the gap between creative design and technic
 | **Tools/Cloud** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) |
 
 ---
-
 ### 📊 GitHub Analytics
-
+<!--
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox&column=7" alt="Trophies" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight" alt="Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight" alt="Top Langs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=mhd-humraz&theme=dark" alt="Streak" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight&cache_seconds=1800" width="42%" />
+</p>
+
+-->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mhd-humraz&theme=tokyonight" width="91%" />
+</p>
+  
+ 
+<img align="right" alt="Coding Cat" width="300" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
+
+![Humraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight)
 
 ---
 
@@ -58,7 +62,7 @@ I am a passionate developer bridging the gap between creative design and technic
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhd-humraz/mhd-humraz/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhd-humraz/mhd-humraz/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mhd-humraz/mhd-humraz/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mhd-humraz/mhd-humraz/output/github-snake.svg" />
   </picture>
 </p>
 
