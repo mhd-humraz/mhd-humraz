@@ -42,7 +42,7 @@ I am a passionate developer bridging the gap between creative design and technic
 </p>
 
 -->
-
+ 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mhd-humraz&theme=tokyonight" width="91%" />
 </p>
@@ -54,9 +54,15 @@ I am a passionate developer bridging the gap between creative design and technic
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight)
 
----
+ ---
 
 ### 🐍 Contribution Journey
+
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhd-humraz&theme=github-compact)](https://github.com/mhd-humraz)
+
+
 
 <p align="center">
   <picture>
