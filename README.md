@@ -46,11 +46,20 @@ I am a passionate developer bridging the gap between creative design and technic
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mhd-humraz&theme=tokyonight" width="91%" />
 </p>
+
+
   
  
 <img align="right" alt="Coding Cat" width="300" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
 
+
+
+
 ![Humraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight)
+
+
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight)
 
