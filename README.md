@@ -29,16 +29,27 @@ I am a passionate developer bridging the gap between creative design and technic
 ---
 ### 📊 GitHub Analytics
 
+ ![Trophy](https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox)
+ 
+
+<!--[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=mhd-humraz)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
+
+<p align="left">
+  <a href="https://github.com/mhd-humraz/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=mhd-humraz&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="mhd-humraz" /></picture></a>
+  
+  <a href="https://github.com/mhd-humraz/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=mhd-humraz&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p
+
+<p align="right">
+
+ 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox&column=6" />
+  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhd-humraz&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-humraz&layout=compact&theme=tokyonight" width="45%" />
-</p>
 
 
 
