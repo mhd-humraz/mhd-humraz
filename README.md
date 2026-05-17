@@ -145,23 +145,32 @@ mindmap
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mhd-humraz&theme=gruvbox)
 
-<p align="left">
-  <a href="https://github.com/mhd-humraz/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=mhd-humraz&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="mhd-humraz GitHub stats" /></picture></a>
-  
-  <a href="https://github.com/mhd-humraz/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=mhd-humraz&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Top Languages" /></picture></a>
+<p align="center">
+  <img align="left" width="48%" src="https://beautiful-github-homepage.vercel.app/api?username=mhd-humraz&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="mhd-humraz GitHub stats" />
+
+  <img align="right" width="28%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=mhd-humraz&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Top Languages" />
 </p>
+
+<br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mhd-humraz&theme=tokyonight" width="91%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=mhd-humraz&theme=tokyonight" width="61%" alt="GitHub Streak Stats" />
 </p>
 
-<img align="right" alt="Coding cat animation showing a developer cat at work" width="300" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
+
 
 ---
 
 ### 🐍 Contribution Journey
+<p align="center">
+  <img align="left" width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhd-humraz&theme=github-compact" alt="GitHub Activity Graph" />
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhd-humraz&theme=github-compact)](https://github.com/mhd-humraz)
+  <img align="right" width="22%" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif" alt="Coding Cat Animation" />
+</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 
 <p align="center">
   <picture>
