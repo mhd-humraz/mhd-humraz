@@ -106,6 +106,12 @@ mindmap
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhd-humraz&repo=college-erp&theme=dark&bg_color=0d1117&title_color=2D9C7C&icon_color=6C5CE7" alt="College ERP Project" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhd-humraz&repo=sign-language-transilator&theme=dark&bg_color=0d1117&title_color=2D9C7C&icon_color=6C5CE7" alt="Sign Language Translator Project" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhd-humraz&repo=hand-detection-model&theme=dark&bg_color=0d1117&title_color=2D9C7C&icon_color=6C5CE7" alt="Hand Detection Model Project" />
 </p>
 
 <p align="center">
@@ -115,11 +121,9 @@ mindmap
 ---
 
 ## My Philosophy
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=2000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Learning+by+building;Innovation+through+collaboration;Design+→+Develop+→+Deploy+→+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=2000&pause=500&color=2D9C7C&center=true&vCenter=true&width=600&lines=Learning+by+building;Innovation+through+collaboration;Design+-%3E+Develop+-%3E+Deploy+-%3E+Impact" alt="Typing SVG" />
 </p>
-
 
 
 
