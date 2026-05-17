@@ -25,15 +25,92 @@
 </div>
 
  ---
-
 ### 💫 About Me
-I am a passionate developer bridging the gap between creative design and technical implementation. Currently, I'm deep-diving into AI integration and modern web ecosystems.
 
-- 🎓 **Currently learning:** WordPress, AI Integration, and Advanced Web Development.
-- 🧠 **Focus:** Building user-centric applications and exploring the future of AI.
-- 🧑‍💻 **Ask me about:** Creative design, event planning, or tech community organization.
-- 🧭 **Pronouns:** He/Him
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=2D9C7C&center=true&vCenter=true&width=600&lines=BCA+Student+%7C+Creative+Developer+%7C+AI+Enthusiast;Building+impactful+digital+experiences;Where+creativity+meets+technology" alt="About Me Quote" />
+</div>
 
+<br>
+
+<table align="center">
+  <tr>
+    <td width="60%">
+      <b>👨‍💻 I'm a BCA student</b> passionate about blending creativity, technology, and innovation to build impactful digital experiences and community-driven projects.
+      <br><br>
+      🎯 <b>My journey</b> started with creative design and gradually expanded into frontend development, backend systems, AI integrations, and real-world problem solving.
+      <br><br>
+      🌍 <b>Beyond development</b>, I actively organize tech initiatives, student programs, and collaborative projects while exploring the future of AI and modern web technologies.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
+
+---
+
+### ✨ What Drives Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-🎨_Origin%20Media-2D9C7C?style=flat-square" />
+        <br>
+        <sub>Founder & Creative Visionary</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-🤖_AI%20Explorer-6C5CE7?style=flat-square" />
+        <br>
+        <sub>Building Intelligent Systems</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-🏫_Tech%20Community-00CEC9?style=flat-square" />
+        <br>
+        <sub>Student Initiatives Lead</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎯 Core Focus Areas
+
+```mermaid
+mindmap
+  root((Muhammed<br/>Humraz H))
+    Creative Design
+      Origin Media
+      Branding
+      Visual Design
+    Development
+      Frontend
+      Backend
+      UI/UX
+    AI & Innovation
+      Intelligent Systems
+      AI Integration
+      Future Tech
+    Community
+      Tech Initiatives
+      Student Programs
+      Collaborations
+```
+
+---
+
+
+## Current Journey
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhd-humraz&repo=learning-journey&theme=dark&bg_color=0d1117&title_color=2D9C7C&icon_color=6C5CE7" alt="Learning Journey" /> </div>
+<div align="center"> <code>🎨 Design → 💻 Code → 🤖 AI → 🌍 Impact</code> </div>
+
+
+---
+
+## My Philosophy
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=2000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Learning+by+building;Innovation+through+collaboration;Design+→+Develop+→+Deploy+→+Impact" /> </div>
 ---
 
 ### 🛠️ Tech Stack
