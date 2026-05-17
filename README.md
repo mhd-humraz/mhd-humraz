@@ -104,19 +104,21 @@ mindmap
 
 ## Current Journey
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhd-humraz&repo=college-erp&theme=dark&bg_color=0d1117&title_color=2D9C7C&icon_color=6C5CE7" alt="Learning Journey"> 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhd-humraz&repo=college-erp&theme=dark&bg_color=0d1117&title_color=2D9C7C&icon_color=6C5CE7" alt="College ERP Project" />
+</p>
 
-</div>
-<div align="center">
-  <code>🎨 Design → 💻 Code → 🤖 AI → 🌍 Impact</code> 
-</div>
-
+<p align="center">
+  <code>🎨 Design → 💻 Code → 🤖 AI → 🌍 Impact</code>
+</p>
 
 ---
 
 ## My Philosophy
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=2000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Learning+by+building;Innovation+through+collaboration;Design+→+Develop+→+Deploy+→+Impact" /> </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=2000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Learning+by+building;Innovation+through+collaboration;Design+→+Develop+→+Deploy+→+Impact" />
+</p>
 
 
 
