@@ -1,3 +1,4 @@
+
 <!-- Animated Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=200&section=header&text=Muhammed%20Humraz%20H&fontSize=50&fontAlignY=35&desc=Creative%20Developer%20|%20Tech%20Enthusiast%20|%20UI/UX%20Explorer&descAlignY=55&animation=fadeIn" width="100%" alt="Animated Header" />
