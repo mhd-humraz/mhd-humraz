@@ -150,7 +150,7 @@ mindmap
   <img align="left" width="48%" src="https://beautiful-github-homepage.vercel.app/api?username=mhd-humraz&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="mhd-humraz GitHub stats" /> 
   
 
-  <img align="right" width="28%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=mhd-humraz&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Top Languages" />
+  <img align="right" width="38%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=mhd-humraz&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Top Languages" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
