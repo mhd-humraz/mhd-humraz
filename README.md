@@ -164,9 +164,12 @@ mindmap
 ---
 
 ### 🐍 Contribution Journey
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhd-humraz&theme=nord_dark" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhd-humraz&theme=nord_dark" height="190" />
+</div>
 <p align="center">
-  <img align="left" width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhd-humraz&theme=github-compact" alt="GitHub Activity Graph" />
-
+ 
   <img align="right" width="22%" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif" alt="Coding Cat Animation" />
 </p>
 
